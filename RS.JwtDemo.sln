@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RS.JwtDemo.AuthService", "RS.JwtDemo.AuthService\RS.JwtDemo.AuthService.csproj", "{5F1EAA71-A2EB-43BA-8166-15F93C3400F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RS.JwtDemo.WebUI", "RS.JwtDemo.WebUI\RS.JwtDemo.WebUI.csproj", "{F0B40AAC-56F3-4F78-BE6C-EA7650D18AFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RS.JwtDemo.Client", "RS.JwtDemo.Client\RS.JwtDemo.Client.csproj", "{D85AB266-7821-4DC3-B2DB-DB75A3DC77FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RS.JwtDemo.Core", "RS.JwtDemo.Core\RS.JwtDemo.Core.csproj", "{5666F285-1EBE-4128-9737-0813D24824E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RS.JwtDemo.Service", "RS.JwtDemo.Service\RS.JwtDemo.Service.csproj", "{63EC62D6-8E45-4A0A-8AC7-8E69BE5E16C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F1EAA71-A2EB-43BA-8166-15F93C3400F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F1EAA71-A2EB-43BA-8166-15F93C3400F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F1EAA71-A2EB-43BA-8166-15F93C3400F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F1EAA71-A2EB-43BA-8166-15F93C3400F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0B40AAC-56F3-4F78-BE6C-EA7650D18AFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0B40AAC-56F3-4F78-BE6C-EA7650D18AFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0B40AAC-56F3-4F78-BE6C-EA7650D18AFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0B40AAC-56F3-4F78-BE6C-EA7650D18AFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D85AB266-7821-4DC3-B2DB-DB75A3DC77FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D85AB266-7821-4DC3-B2DB-DB75A3DC77FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D85AB266-7821-4DC3-B2DB-DB75A3DC77FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D85AB266-7821-4DC3-B2DB-DB75A3DC77FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5666F285-1EBE-4128-9737-0813D24824E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5666F285-1EBE-4128-9737-0813D24824E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5666F285-1EBE-4128-9737-0813D24824E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5666F285-1EBE-4128-9737-0813D24824E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63EC62D6-8E45-4A0A-8AC7-8E69BE5E16C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63EC62D6-8E45-4A0A-8AC7-8E69BE5E16C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63EC62D6-8E45-4A0A-8AC7-8E69BE5E16C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63EC62D6-8E45-4A0A-8AC7-8E69BE5E16C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
